@@ -39,7 +39,7 @@ Healper模块还包括一个错误数组用于创建错误。
 包装步骤列表的工厂 ,读取多个文件的时候，可以将公用的函数包装成工
 厂，不用每次都传参（函数书写麻烦） 
 - 项目中使用了哪些高级的 JavaScript 语法？  
-1.	Process.nextTick()
+1.	Process.nextTick() http://blog.csdn.net/hkh_1012/article/details/53453138
 2.	Array.forEach() Array.map()
 3.	next.apply(null, results);
 4.	assert.deepEqual(dirListing, results);
